@@ -4,3 +4,12 @@
 8 -> 2, 4, 6, 8
 */
 
+Console.WriteLine("напишите число: ");
+string NumberA = Console.ReadLine();
+int N = int.Parse(NumberA);
+
+for (int x = N; x<=N; x++)
+{  
+    if(x%2==0)
+   Console.WriteLine($"{x}");
+}
