@@ -8,8 +8,9 @@ Console.WriteLine("напишите число: ");
 string NumberA = Console.ReadLine();
 int N = int.Parse(NumberA);
 
-for (int x = N; x<=N; x++)
+for (int x = -N; x<=N; x++)
 {  
-    if(x%2==0)
+    if(x%2==0 && x > 0)
+
    Console.WriteLine($"{x}");
 }
