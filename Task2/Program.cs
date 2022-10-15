@@ -6,3 +6,4 @@
 
 */
 
+Console.WriteLine("Напишите 3 числа");
