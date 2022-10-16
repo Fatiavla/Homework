@@ -8,12 +8,13 @@
 */
 
 Console.Write("Введи число: ");
-string Newnumber = Console.ReadLine();
-int number = int.Parse(Newnumber);
-if (Newnumber.Length > 2)
+string newnumber = Console.ReadLine();
+int number = int.Parse(newnumber);
+if (newnumber.Length > 2)
 {
-  Console.WriteLine(Newnumber[2]);
+  Console.WriteLine(newnumber[2]);
 }
-else {
+else 
+{
   Console.WriteLine("третьей цифры нет");
 }
