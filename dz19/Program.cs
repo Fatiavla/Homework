@@ -12,17 +12,19 @@
 int GetNumber (string message) 
 {
     int userNumber;
+    string number;
     while (true) 
     {
         Console.Write(message);
+        number = Console.ReadLine();
 
-        if (int.TryParse(Console.ReadLine(), out int number)) 
+        if (int.TryParse(number, out int number1) && number.Length == 5) 
         {
-            userNumber = number;
+            userNumber = number1;
             break;
         }    
         else {
-            Console.WriteLine("Это не число, повторите ввод.");
+            Console.WriteLine("Это не пятизначное число, повторите ввод.");
         }
     } 
     return userNumber;
@@ -32,24 +34,21 @@ string CheckNumber(string message)
 {
     string result = String.Empty;
     int lenght = message.Length;
-    for ( int i = 0; i < message.Length; i++)
-    {
-       
         if(message[0] == message[4] && message[1] == message[3]) 
+    
         {
-            Console.WriteLine("да");
-            break;
+            result = "да";
+            
+  
         }
         else
         {
-            Console.WriteLine("Нет");
-            break;
+            result = "нет"; 
         }
-    }
+        
     
     return result;
 }
 
 int userNumber = GetNumber ("Введите 5-ти значное число: ");
-string result = CheckNumber($"{userNumber}");
-Console.WriteLine(result);
+Console.WriteLine(CheckNumber($"{userNumber}"));
