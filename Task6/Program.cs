@@ -9,7 +9,6 @@
 
 Console.Write("Введи число: ");
 string newnumber = Console.ReadLine();
-int number = int.Parse(newnumber);
 if (newnumber.Length > 2)
 {
   Console.WriteLine(newnumber[2]);

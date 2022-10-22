@@ -1,0 +1,15 @@
+C:\Users\bioaf\Desktop\Homework\dz19\bin\Debug\net6.0\dz19.exe
+C:\Users\bioaf\Desktop\Homework\dz19\bin\Debug\net6.0\dz19.deps.json
+C:\Users\bioaf\Desktop\Homework\dz19\bin\Debug\net6.0\dz19.runtimeconfig.json
+C:\Users\bioaf\Desktop\Homework\dz19\bin\Debug\net6.0\dz19.dll
+C:\Users\bioaf\Desktop\Homework\dz19\bin\Debug\net6.0\dz19.pdb
+C:\Users\bioaf\Desktop\Homework\dz19\obj\Debug\net6.0\dz19.csproj.AssemblyReference.cache
+C:\Users\bioaf\Desktop\Homework\dz19\obj\Debug\net6.0\dz19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioaf\Desktop\Homework\dz19\obj\Debug\net6.0\dz19.AssemblyInfoInputs.cache
+C:\Users\bioaf\Desktop\Homework\dz19\obj\Debug\net6.0\dz19.AssemblyInfo.cs
+C:\Users\bioaf\Desktop\Homework\dz19\obj\Debug\net6.0\dz19.csproj.CoreCompileInputs.cache
+C:\Users\bioaf\Desktop\Homework\dz19\obj\Debug\net6.0\dz19.dll
+C:\Users\bioaf\Desktop\Homework\dz19\obj\Debug\net6.0\refint\dz19.dll
+C:\Users\bioaf\Desktop\Homework\dz19\obj\Debug\net6.0\dz19.pdb
+C:\Users\bioaf\Desktop\Homework\dz19\obj\Debug\net6.0\dz19.genruntimeconfig.cache
+C:\Users\bioaf\Desktop\Homework\dz19\obj\Debug\net6.0\ref\dz19.dll
