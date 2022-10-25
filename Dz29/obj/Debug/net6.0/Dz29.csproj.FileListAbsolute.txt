@@ -1,0 +1,15 @@
+C:\Users\bioaf\Desktop\Homework\Dz29\obj\Debug\net6.0\Dz29.csproj.AssemblyReference.cache
+C:\Users\bioaf\Desktop\Homework\Dz29\obj\Debug\net6.0\Dz29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioaf\Desktop\Homework\Dz29\obj\Debug\net6.0\Dz29.AssemblyInfoInputs.cache
+C:\Users\bioaf\Desktop\Homework\Dz29\obj\Debug\net6.0\Dz29.AssemblyInfo.cs
+C:\Users\bioaf\Desktop\Homework\Dz29\obj\Debug\net6.0\Dz29.csproj.CoreCompileInputs.cache
+C:\Users\bioaf\Desktop\Homework\Dz29\bin\Debug\net6.0\Dz29.exe
+C:\Users\bioaf\Desktop\Homework\Dz29\bin\Debug\net6.0\Dz29.deps.json
+C:\Users\bioaf\Desktop\Homework\Dz29\bin\Debug\net6.0\Dz29.runtimeconfig.json
+C:\Users\bioaf\Desktop\Homework\Dz29\bin\Debug\net6.0\Dz29.dll
+C:\Users\bioaf\Desktop\Homework\Dz29\bin\Debug\net6.0\Dz29.pdb
+C:\Users\bioaf\Desktop\Homework\Dz29\obj\Debug\net6.0\Dz29.dll
+C:\Users\bioaf\Desktop\Homework\Dz29\obj\Debug\net6.0\refint\Dz29.dll
+C:\Users\bioaf\Desktop\Homework\Dz29\obj\Debug\net6.0\Dz29.pdb
+C:\Users\bioaf\Desktop\Homework\Dz29\obj\Debug\net6.0\Dz29.genruntimeconfig.cache
+C:\Users\bioaf\Desktop\Homework\Dz29\obj\Debug\net6.0\ref\Dz29.dll

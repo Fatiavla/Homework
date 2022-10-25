@@ -1,0 +1,15 @@
+C:\Users\bioaf\Desktop\Homework\Dz25\obj\Debug\net6.0\Dz25.csproj.AssemblyReference.cache
+C:\Users\bioaf\Desktop\Homework\Dz25\obj\Debug\net6.0\Dz25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioaf\Desktop\Homework\Dz25\obj\Debug\net6.0\Dz25.AssemblyInfoInputs.cache
+C:\Users\bioaf\Desktop\Homework\Dz25\obj\Debug\net6.0\Dz25.AssemblyInfo.cs
+C:\Users\bioaf\Desktop\Homework\Dz25\obj\Debug\net6.0\Dz25.csproj.CoreCompileInputs.cache
+C:\Users\bioaf\Desktop\Homework\Dz25\bin\Debug\net6.0\Dz25.exe
+C:\Users\bioaf\Desktop\Homework\Dz25\bin\Debug\net6.0\Dz25.deps.json
+C:\Users\bioaf\Desktop\Homework\Dz25\bin\Debug\net6.0\Dz25.runtimeconfig.json
+C:\Users\bioaf\Desktop\Homework\Dz25\bin\Debug\net6.0\Dz25.dll
+C:\Users\bioaf\Desktop\Homework\Dz25\bin\Debug\net6.0\Dz25.pdb
+C:\Users\bioaf\Desktop\Homework\Dz25\obj\Debug\net6.0\Dz25.dll
+C:\Users\bioaf\Desktop\Homework\Dz25\obj\Debug\net6.0\refint\Dz25.dll
+C:\Users\bioaf\Desktop\Homework\Dz25\obj\Debug\net6.0\Dz25.pdb
+C:\Users\bioaf\Desktop\Homework\Dz25\obj\Debug\net6.0\Dz25.genruntimeconfig.cache
+C:\Users\bioaf\Desktop\Homework\Dz25\obj\Debug\net6.0\ref\Dz25.dll
