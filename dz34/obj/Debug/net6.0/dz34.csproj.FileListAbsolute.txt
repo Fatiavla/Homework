@@ -1,0 +1,15 @@
+C:\Users\bioaf\Desktop\Homework\dz34\bin\Debug\net6.0\dz34.exe
+C:\Users\bioaf\Desktop\Homework\dz34\bin\Debug\net6.0\dz34.deps.json
+C:\Users\bioaf\Desktop\Homework\dz34\bin\Debug\net6.0\dz34.runtimeconfig.json
+C:\Users\bioaf\Desktop\Homework\dz34\bin\Debug\net6.0\dz34.dll
+C:\Users\bioaf\Desktop\Homework\dz34\bin\Debug\net6.0\dz34.pdb
+C:\Users\bioaf\Desktop\Homework\dz34\obj\Debug\net6.0\dz34.csproj.AssemblyReference.cache
+C:\Users\bioaf\Desktop\Homework\dz34\obj\Debug\net6.0\dz34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioaf\Desktop\Homework\dz34\obj\Debug\net6.0\dz34.AssemblyInfoInputs.cache
+C:\Users\bioaf\Desktop\Homework\dz34\obj\Debug\net6.0\dz34.AssemblyInfo.cs
+C:\Users\bioaf\Desktop\Homework\dz34\obj\Debug\net6.0\dz34.csproj.CoreCompileInputs.cache
+C:\Users\bioaf\Desktop\Homework\dz34\obj\Debug\net6.0\dz34.dll
+C:\Users\bioaf\Desktop\Homework\dz34\obj\Debug\net6.0\refint\dz34.dll
+C:\Users\bioaf\Desktop\Homework\dz34\obj\Debug\net6.0\dz34.pdb
+C:\Users\bioaf\Desktop\Homework\dz34\obj\Debug\net6.0\dz34.genruntimeconfig.cache
+C:\Users\bioaf\Desktop\Homework\dz34\obj\Debug\net6.0\ref\dz34.dll
