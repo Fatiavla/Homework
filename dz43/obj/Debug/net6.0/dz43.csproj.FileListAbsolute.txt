@@ -1,0 +1,15 @@
+C:\Users\bioaf\Desktop\Homework\dz43\obj\Debug\net6.0\dz43.csproj.AssemblyReference.cache
+C:\Users\bioaf\Desktop\Homework\dz43\obj\Debug\net6.0\dz43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioaf\Desktop\Homework\dz43\obj\Debug\net6.0\dz43.AssemblyInfoInputs.cache
+C:\Users\bioaf\Desktop\Homework\dz43\obj\Debug\net6.0\dz43.AssemblyInfo.cs
+C:\Users\bioaf\Desktop\Homework\dz43\obj\Debug\net6.0\dz43.csproj.CoreCompileInputs.cache
+C:\Users\bioaf\Desktop\Homework\dz43\bin\Debug\net6.0\dz43.exe
+C:\Users\bioaf\Desktop\Homework\dz43\bin\Debug\net6.0\dz43.deps.json
+C:\Users\bioaf\Desktop\Homework\dz43\bin\Debug\net6.0\dz43.runtimeconfig.json
+C:\Users\bioaf\Desktop\Homework\dz43\bin\Debug\net6.0\dz43.dll
+C:\Users\bioaf\Desktop\Homework\dz43\bin\Debug\net6.0\dz43.pdb
+C:\Users\bioaf\Desktop\Homework\dz43\obj\Debug\net6.0\dz43.dll
+C:\Users\bioaf\Desktop\Homework\dz43\obj\Debug\net6.0\refint\dz43.dll
+C:\Users\bioaf\Desktop\Homework\dz43\obj\Debug\net6.0\dz43.pdb
+C:\Users\bioaf\Desktop\Homework\dz43\obj\Debug\net6.0\dz43.genruntimeconfig.cache
+C:\Users\bioaf\Desktop\Homework\dz43\obj\Debug\net6.0\ref\dz43.dll
