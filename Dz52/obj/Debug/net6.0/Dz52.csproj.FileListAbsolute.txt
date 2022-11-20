@@ -1,0 +1,15 @@
+C:\Users\bioaf\Desktop\Homework\Dz52\bin\Debug\net6.0\Dz52.exe
+C:\Users\bioaf\Desktop\Homework\Dz52\bin\Debug\net6.0\Dz52.deps.json
+C:\Users\bioaf\Desktop\Homework\Dz52\bin\Debug\net6.0\Dz52.runtimeconfig.json
+C:\Users\bioaf\Desktop\Homework\Dz52\bin\Debug\net6.0\Dz52.dll
+C:\Users\bioaf\Desktop\Homework\Dz52\bin\Debug\net6.0\Dz52.pdb
+C:\Users\bioaf\Desktop\Homework\Dz52\obj\Debug\net6.0\Dz52.csproj.AssemblyReference.cache
+C:\Users\bioaf\Desktop\Homework\Dz52\obj\Debug\net6.0\Dz52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioaf\Desktop\Homework\Dz52\obj\Debug\net6.0\Dz52.AssemblyInfoInputs.cache
+C:\Users\bioaf\Desktop\Homework\Dz52\obj\Debug\net6.0\Dz52.AssemblyInfo.cs
+C:\Users\bioaf\Desktop\Homework\Dz52\obj\Debug\net6.0\Dz52.csproj.CoreCompileInputs.cache
+C:\Users\bioaf\Desktop\Homework\Dz52\obj\Debug\net6.0\Dz52.dll
+C:\Users\bioaf\Desktop\Homework\Dz52\obj\Debug\net6.0\refint\Dz52.dll
+C:\Users\bioaf\Desktop\Homework\Dz52\obj\Debug\net6.0\Dz52.pdb
+C:\Users\bioaf\Desktop\Homework\Dz52\obj\Debug\net6.0\Dz52.genruntimeconfig.cache
+C:\Users\bioaf\Desktop\Homework\Dz52\obj\Debug\net6.0\ref\Dz52.dll

@@ -1,0 +1,15 @@
+C:\Users\bioaf\Desktop\Homework\Dz58\bin\Debug\net6.0\Dz58.exe
+C:\Users\bioaf\Desktop\Homework\Dz58\bin\Debug\net6.0\Dz58.deps.json
+C:\Users\bioaf\Desktop\Homework\Dz58\bin\Debug\net6.0\Dz58.runtimeconfig.json
+C:\Users\bioaf\Desktop\Homework\Dz58\bin\Debug\net6.0\Dz58.dll
+C:\Users\bioaf\Desktop\Homework\Dz58\bin\Debug\net6.0\Dz58.pdb
+C:\Users\bioaf\Desktop\Homework\Dz58\obj\Debug\net6.0\Dz58.csproj.AssemblyReference.cache
+C:\Users\bioaf\Desktop\Homework\Dz58\obj\Debug\net6.0\Dz58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioaf\Desktop\Homework\Dz58\obj\Debug\net6.0\Dz58.AssemblyInfoInputs.cache
+C:\Users\bioaf\Desktop\Homework\Dz58\obj\Debug\net6.0\Dz58.AssemblyInfo.cs
+C:\Users\bioaf\Desktop\Homework\Dz58\obj\Debug\net6.0\Dz58.csproj.CoreCompileInputs.cache
+C:\Users\bioaf\Desktop\Homework\Dz58\obj\Debug\net6.0\Dz58.dll
+C:\Users\bioaf\Desktop\Homework\Dz58\obj\Debug\net6.0\refint\Dz58.dll
+C:\Users\bioaf\Desktop\Homework\Dz58\obj\Debug\net6.0\Dz58.pdb
+C:\Users\bioaf\Desktop\Homework\Dz58\obj\Debug\net6.0\Dz58.genruntimeconfig.cache
+C:\Users\bioaf\Desktop\Homework\Dz58\obj\Debug\net6.0\ref\Dz58.dll
