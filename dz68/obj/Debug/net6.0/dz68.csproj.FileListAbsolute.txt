@@ -1,0 +1,15 @@
+C:\Users\bioaf\Desktop\Homework\dz68\obj\Debug\net6.0\dz68.csproj.AssemblyReference.cache
+C:\Users\bioaf\Desktop\Homework\dz68\obj\Debug\net6.0\dz68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bioaf\Desktop\Homework\dz68\obj\Debug\net6.0\dz68.AssemblyInfoInputs.cache
+C:\Users\bioaf\Desktop\Homework\dz68\obj\Debug\net6.0\dz68.AssemblyInfo.cs
+C:\Users\bioaf\Desktop\Homework\dz68\obj\Debug\net6.0\dz68.csproj.CoreCompileInputs.cache
+C:\Users\bioaf\Desktop\Homework\dz68\bin\Debug\net6.0\dz68.exe
+C:\Users\bioaf\Desktop\Homework\dz68\bin\Debug\net6.0\dz68.deps.json
+C:\Users\bioaf\Desktop\Homework\dz68\bin\Debug\net6.0\dz68.runtimeconfig.json
+C:\Users\bioaf\Desktop\Homework\dz68\bin\Debug\net6.0\dz68.dll
+C:\Users\bioaf\Desktop\Homework\dz68\bin\Debug\net6.0\dz68.pdb
+C:\Users\bioaf\Desktop\Homework\dz68\obj\Debug\net6.0\dz68.dll
+C:\Users\bioaf\Desktop\Homework\dz68\obj\Debug\net6.0\refint\dz68.dll
+C:\Users\bioaf\Desktop\Homework\dz68\obj\Debug\net6.0\dz68.pdb
+C:\Users\bioaf\Desktop\Homework\dz68\obj\Debug\net6.0\dz68.genruntimeconfig.cache
+C:\Users\bioaf\Desktop\Homework\dz68\obj\Debug\net6.0\ref\dz68.dll

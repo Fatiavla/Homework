@@ -24,7 +24,7 @@ void PrintSumm(int m, int n, int summ)
     Console.Write($"Сумма элементов= {summ} ");
     return;
   }
-  PrintSumm(m, n - 1, summ); новое условие 1 1 0
+  PrintSumm(m, n - 1, summ);
 }
 
 
